@@ -1,0 +1,13 @@
+{
+  "name": "markdown-index-generator",
+  "version": "1.0.0",
+  "description": "A small package to generate a table of contents.",
+  "main": "index.js",
+  "author": "José Melo <melo199435@gmail.com> ()",
+  "bin": {
+    "markdown-index-generator": "index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/josemiguelmelo/markdown-index-generator/issues"
+  }
+}
